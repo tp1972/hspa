@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "First house",
+    "type": "House",
+    "price": 2535
+  },
+  {
+    "id": 2,
+    "name": "Second house",
+    "type": "House",
+    "price": 1535
+  },
+  {
+    "id": 3,
+    "name": "First villa",
+    "type": "Villa",
+    "price": 657000
+  },
+  {
+    "id": 4,
+    "name": "Blue villa",
+    "type": "villa",
+    "price": 903465
+  },
+  {
+    "id": 5,
+    "name": "Red Apartment",
+    "type": "Apartment",
+    "price": 535
+  },
+  {
+    "id": 6,
+    "name": "3rd house",
+    "type": "House",
+    "price": 3335
+  }
+]
